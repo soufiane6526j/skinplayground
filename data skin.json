@@ -3,7 +3,7 @@
 		 "rewarde_type": "yandex",
 		"native_type": "admob",
 		"inter_type": "admob",
-		"banner_type": "yandex",
+		"banner_type": "admob",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_title": "admob",
@@ -29,17 +29,17 @@
 		"native_yandex": "R-M-1823229-2",
 		"rewarde_yandex": "R-M-1823229-4",
 
-		"interstitial_admob": "ca-app-pub-1494253779810891/5499018586",
-		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob": "ca-app-pub-1494253779810891/9248801149",
+		"interstitial_admob": "ca-app-pub-1494253779810891/1860146155",
+		"banner_admob": "ca-app-pub-1494253779810891/6142257669",
+		"native_admob": "ca-app-pub-1494253779810891/4745415515",
 		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
 
-		"interstitial_admob1": "ca-app-pub-1494253779810891/5499018586",
-		"native_admob1": "ca-app-pub-1494253779810891/9248801149",
+		"interstitial_admob1": "ca-app-pub-1494253779810891/9534707767",
+		"native_admob1": "ca-app-pub-1494253779810891/9151564386",
 		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
 
-		"interstitial_admob2": "ca-app-pub-1494253779810891/5499018586",
-		"native_admob2": "ca-app-pub-1494253779810891/9248801149",
+		"interstitial_admob2": "ca-app-pub-1494253779810891/4150503234",
+		"native_admob2": "ca-app-pub-1494253779810891/1927680480",
 		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
 
 		
